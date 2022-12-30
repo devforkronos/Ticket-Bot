@@ -92,4 +92,4 @@ for (const file of eventFiles) {
 }
 
 // Login the bot
-client.login(token);
+client.login('MTA1ODE2MDQzNzQ3NDEwMzMyNg.Ge-nKZ.SDphyLjKyaS_WR2QDCMPyd8JEBvwYNp7x_WTN4');
