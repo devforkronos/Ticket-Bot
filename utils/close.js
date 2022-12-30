@@ -113,7 +113,7 @@ module.exports = {
         .replace('CLOSERNAME', interaction.user.tag)
       )
       .setFooter({
-        text: "is.gd/ticketbot" + client.embeds.ticketClosedDM.footer.text.replace("is.gd/ticketbot", ""), // Please respect the LICENSE :D
+        text: "" + client.embeds.ticketClosedDM.footer.text.replace("", ""), // Please respect the LICENSE :D
         iconUrl: client.embeds.ticketClosedDM.footer.iconUrl
       })
 
